@@ -1,0 +1,129 @@
+.banner-3{
+
+   text-align: right;
+   position: absolute;
+   color: white;
+   top: 50%;
+   width: 90%;   
+}
+
+
+.banner-3 h1{
+   font-size: xx-large;
+}
+
+
+button{
+
+   background-color: white;
+   color: blue;
+   font-weight: bold;
+   font-size: medium;
+   padding: 20px 20px;
+   margin: 10px 50px 20px;
+   border-radius: 4px;
+   border: none;
+
+}
+
+.person{
+   display: flex;
+   gap: 10px;
+   justify-content: space-around;
+   align-items: center;
+}
+
+
+.aa{
+   font-size: 40px;
+   width: 250px;
+}
+
+
+.bb{width: 300px;
+
+}
+
+
+li{
+   list-style-type: none;
+   
+}
+
+
+li span{
+   color: rgb(6, 238, 6)
+}
+
+
+
+.plans{
+   text-align: center;
+
+
+}
+
+.icons{
+   display: flex;
+   justify-content: space-around;
+   height: 200px;
+}
+
+
+.watch{
+   background-image: linear-gradient(90deg, rgba(18, 7, 228, 0.653) 31%,rgba(54, 191, 184, 0.522) 75%),url(./images/watch.png);
+   background-repeat: no-repeat;
+   text-align: left;
+   height: 40vh;
+   width: 150vh;
+margin-left: 170px;
+
+}
+
+
+.watch h1{
+   color: white;
+   text-align: left;
+   align-items: center;
+   padding: 50px 50px 50px;
+}
+
+
+.watch button{
+
+   background-color: white;
+   color: blue;
+}
+
+.footer{
+   display: flex;
+   justify-content: space-around;
+   background-color: black;
+   color: white;
+   height: 450px;
+   padding: 50px 50px 50px;
+   
+   
+}
+
+.footer input{
+   background-color: transparent;
+   color: white;
+   font-size: medium;
+   font-weight: bold;
+   border-color: white;
+   padding: 20px 40px 30px;
+
+}
+
+
+.footer button{
+
+   background-color: rgb(9, 9, 231);
+   color: white;
+   font-size: medium;
+   font-weight: bold;
+   border-radius: 5px;
+   padding: 20px 40px 30px
+}
+ 
